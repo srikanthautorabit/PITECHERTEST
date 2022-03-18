@@ -1,12 +1,19 @@
 {
-  "packageDirectories": [
-    {
-      "path": "force-app",
-      "default": true
-    }
-  ],
-  "name": "TJKG3NJQxucttcrs_retrieve",
-  "namespace": "",
-  "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "54.0"
+  "packageDirectories" : [ {
+    "path" : "force-app",
+    "default" : false
+  }, {
+    "path" : "UAT22",
+    "default" : true,
+    "package" : "UAT22",
+    "versionName" : "UAT22",
+    "versionNumber" : "1.0.0.0"
+  } ],
+  "namespace" : "",
+  "sfdcLoginUrl" : "https://login.salesforce.com",
+  "sourceApiVersion" : "54.0",
+  "packageAliases" : {
+    "UAT22" : "0Ho2x000000XZZsCAO",
+    "UAT22@1.0.0.0" : "04t2x000004C2EvAAK"
+  }
 }

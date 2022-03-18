@@ -1,0 +1,21 @@
+ ›   Warning: sfdx-cli update available from 7.129.0 to 7.139.0.
+{
+  "status": 0,
+  "result": {
+    "id": "0Af0I00000kU1bcSAC",
+    "done": false,
+    "state": "Queued",
+    "status": "Queued",
+    "timedOut": true,
+    "outboundFiles": [],
+    "deploys": [
+      {
+        "id": "0Af0I00000kU1bcSAC",
+        "done": false,
+        "state": "Queued",
+        "status": "Queued",
+        "timedOut": true
+      }
+    ]
+  }
+}
