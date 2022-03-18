@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Translations xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customLabels>
+        <label>testing</label>
+        <name>Customer_Email</name>
+    </customLabels>
+    <customLabels>
+        <label>ssdg</label>
+        <name>new_label</name>
+    </customLabels>
+</Translations>
